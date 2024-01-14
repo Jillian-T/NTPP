@@ -1,0 +1,7 @@
+{
+  "_class_name": "SelfAttentionEncoder",
+  "_diffusers_version": "0.21.4",
+  "input_dim": 16,
+  "n_head": 1,
+  "n_layers": 1
+}

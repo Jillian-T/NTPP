@@ -1,0 +1,20 @@
+{
+  "_class_name": "SelfAttnPipeline",
+  "_diffusers_version": "0.21.4",
+  "log_intensity_decoder": [
+    "__main__",
+    "LogIntensityDecoder"
+  ],
+  "mark_encoder": [
+    "__main__",
+    "MarksEncoder"
+  ],
+  "self_attention_encoder": [
+    "__main__",
+    "SelfAttentionEncoder"
+  ],
+  "temporal_encoder": [
+    "__main__",
+    "TemporalEncoder"
+  ]
+}
